@@ -100,10 +100,10 @@ This project was developed as a team project. Firmware, control algorithms, and 
 
 ![PCB 3D View](images/board.png)
 
-![PCB 3D](images/first.png)
+![PCB 3D](images/first.jpg)
 
-![PCB](images/second.png)
+![PCB](images/second.jpg)
 
-![PCB View](images/third.png)
+![PCB View](images/third.jpg)
 
 ![cube](images/fourth.png)
