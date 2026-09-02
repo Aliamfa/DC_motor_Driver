@@ -95,3 +95,15 @@ The repository contains the STM32 firmware source code and project files.
 ## Project Context
 
 This project was developed as a team project. Firmware, control algorithms, and hardware development were carried out collaboratively.
+
+## Project Picture
+
+![PCB 3D View](images/board.png)
+
+![PCB 3D View](images/first.png)
+
+![PCB 3D View](images/second.png)
+
+![PCB 3D View](images/third.png)
+
+![PCB 3D View](images/fourth.png)
